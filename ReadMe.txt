@@ -38,7 +38,7 @@ This will start the development server, and you can view the application at http
 
 
 
-Frontend/src\app\services\app.service.ts: It contains api url
+Frontend\src\app\services\app.service.ts: It contains api url
   private apiUrl = 'https://appdemosuman.azurewebsites.net'; //It is to run with the hosted api on azure
   private apiUrl = 'https://localhost:44376'; //to check running api locally, set port 
 
